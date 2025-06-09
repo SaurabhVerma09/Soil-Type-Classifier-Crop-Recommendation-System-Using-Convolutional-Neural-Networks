@@ -1,0 +1,1 @@
+# Soil-Type-Classifier-Crop-Recommendation-System-Using-Convolutional-Neural-Networks
